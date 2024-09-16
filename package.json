@@ -144,7 +144,7 @@
       "optional": true
     }
   },
-  "packageManager": "pnpm@9.9.0",
+  "packageManager": "pnpm@9.10.0",
   "engines": {
     "node": ">=18.19.0"
   }
